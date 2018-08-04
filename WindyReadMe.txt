@@ -13,3 +13,5 @@ I started from Git your hands dirty.
 5. git push origin master
 
 
+NPM
+npm install just installs the package.  npm install —save puts a record in the Json file.  Once this list is in place, running npm install again installs all the stuff listed in the Json file.
